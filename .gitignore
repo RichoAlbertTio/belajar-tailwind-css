@@ -1,0 +1,5 @@
+node_modules/
+
+# Tailwind CSS output file
+src/input.css
+src/output.css
