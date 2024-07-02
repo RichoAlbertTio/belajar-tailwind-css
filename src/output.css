@@ -1176,6 +1176,10 @@ body {
 }
 
 @media (min-width: 768px) {
+  .md\:bottom-3 {
+    bottom: 0.75rem;
+  }
+
   .md\:scale-125 {
     --tw-scale-x: 1.25;
     --tw-scale-y: 1.25;
