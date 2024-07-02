@@ -1,5 +1,3 @@
-node_modules/
-
 # Tailwind CSS output file
 src/input.css
 src/output.css
@@ -7,3 +5,5 @@ src/output.css
 
 # Files to ignore
 dokumentasi.txt
+
+node_modules/
